@@ -1,0 +1,152 @@
+body, html
+{
+  background: white;
+  font-family: 'Open Sans', sans-serif;
+}
+.title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 4em;
+  color:  black;
+  margin: .5em;
+  text-align: center;
+}
+.social{
+  text-align: center;
+}
+h2{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2em;
+  color:red;
+  text-align: center;
+}
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2em;
+  color:  black;
+  margin: .5em;
+  text-align: left;
+
+}
+
+p {
+ font-family: 'Open Sans', sans-serif;
+ margin: .5em;
+ text-align: left;
+ font-size: 2em;
+}
+
+.bio {
+  font-family: 'Open Sans', sans-serif;
+  border: .25em solid black;
+  margin: 1em;
+  text-align: center;
+  padding: 1em;
+  background-color: #f6f6f6;
+}
+.hf { 
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.5em;
+  background-color: black; 
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+ul {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.5em;
+  margin: .5em;
+  padding: 1.5em;
+  overflow: hidden;
+}
+
+li {
+  float: left; 
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: .5em 1.5em;
+  text-decoration: none;
+  font-family: 'Open Sans', sans-serif;
+
+
+}
+li a:hover {
+  background-color: grey;
+}
+
+.active {
+  background-color: grey;
+}
+
+.button {
+ border-width: 2em;
+ background-color: black;
+ border: black;
+ color: white;
+ padding: 1em 2em;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 1em;
+ font-family: 'Open Sans', sans-serif;
+}
+
+.button:hover {
+  background-color: grey; 
+  color: white;
+}
+
+form{
+	padding: .9em;
+	text-align: center;
+  font-family: 'Open Sans', sans-serif;
+
+}
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 1em;
+  justify-content: center;
+}
+
+.gallery-item {
+  border: .5em solid black;
+  margin: .5em;
+  background-color: black;
+
+
+}
+.image-link
+{
+  text-decoration: none;
+}
+
+footer
+{
+ font-size: .75em;
+ font-family: 'Open Sans', sans-serif;
+ background-color: black; 
+ color: white;
+ text-align: center;
+ list-style-type: none;
+ margin: .5em;
+ padding: 0;
+ overflow: hidden;
+}
+
+figure { 
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 1em;
+  margin-right: 1em;
+
+
+}
