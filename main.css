@@ -140,13 +140,6 @@ a:visited {
   text-decoration: underline;
 }
 
-  a:active {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-
 footer
 {
  font-size: .75em;
