@@ -128,16 +128,6 @@ form{
   text-decoration: none;
 }
 
-a:link {
-  color: black; 
-  background-color: transparent; 
-  text-decoration: underline;
-}
-
-a:visited {
-  color: black;
-  background-color: transparent;
-  text-decoration: underline;
 }
 
 footer
