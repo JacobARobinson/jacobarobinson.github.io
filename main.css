@@ -98,7 +98,7 @@ li a:hover {
  font-family: 'Open Sans', sans-serif;
 }
 
-.button:hover {
+.button: hover {
   background-color: grey; 
   color: white;
 }
@@ -126,8 +126,6 @@ form{
 .image-link
 {
   text-decoration: none;
-}
-
 }
 
 footer
