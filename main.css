@@ -140,8 +140,8 @@ a:visited {
   text-decoration: underline;
 }
 
-  a:visited {
-  color: grey;
+  a:active {
+  color: red;
   background-color: transparent;
   text-decoration: underline;
 }
